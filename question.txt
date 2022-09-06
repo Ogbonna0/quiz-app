@@ -1,0 +1,28 @@
+// 1. You will have only <span>15 seconds</span> per each question.
+// 2. once you select your answer, you can't reselect.
+// 3. You can't select any option once time goes off.
+// 4. You can't exit from the quiz while your'e playing.
+// 5. You'll get points on the basis of your correct answer.
+
+// What does HTML stand for?
+// Hyper Text processor 
+// Hyper Text Markup Language
+// Hyper Text Multiple Language
+// Hyper Tool Multi Language
+
+// What does CSS stand for?
+// Common Style Sheet
+// Colorful Style Sheet 
+// Computer Stlyle Sheet 
+// Cascading Style Sheet 
+
+// What does PHP Stand for?
+// Hypertext Preprocessor
+// Hypertext Programming
+// Hypertext preprogramming
+// Hypertext preprocessor
+
+// What does SQL stand for?
+// Stylish Question Language
+// Stylish Query Language
+// Statement Question Language
